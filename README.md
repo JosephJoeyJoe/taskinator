@@ -1,5 +1,5 @@
 # The Taskinator
 
-## A great tool to help track progress a prioritize. 
+## A great tool to help track progress and prioritize. 
 
 https://josephjoeyjoe.github.io/taskinator/
